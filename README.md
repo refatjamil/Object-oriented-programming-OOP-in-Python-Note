@@ -41,7 +41,7 @@ student2.info()
 - `student1.info()` এখানে student1 এর information আউটপুট হিসাবে প্রিন্ট করার জন্য  সাধারণ মেথড  `info()` কল করা হয়েছে। 
 
 ## Inheritance (ইনহেরিটেন্স)
-Inheritance হলো Object-oriented programming একটি মেকানিজম যেখানে একটি class (Sub Class বা Child Class) অন্য একটি class (Super Class বা Parent Class) থেকে গুণাঙ্গ এবং আচার ধারণ করে। <br>
+Inheritance হলো Object-oriented programming একটি মেকানিজম যেখানে একটি class (Sub Class বা Child Class) অন্য একটি class (Super Class বা Parent Class) থেকে বৈশিষ্ট্য এবং আচার ধারণ করে। <br>
 সাধারণত দু প্রকারের ইনহেরিটেন্স থাকে:
 
 1. <b>সিঙ্গল ইনহেরিটেন্স:</b> একটি সাবক্লাস শুধুমাত্র একটি সুপারক্লাস থেকে ইনহেরিট করে।
